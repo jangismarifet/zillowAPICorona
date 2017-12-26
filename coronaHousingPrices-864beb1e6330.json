@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "coronahousingprices",
+  "private_key_id": "864beb1e6330cca549f0d3a278ffbc2e39d4df84",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCwcRjhHscLf1y6\ngblI6SFJad27WjARB6y3YHiDVp/KEkzF3qMcSwXisccbfoeKpat33M5x+neEm6LI\nx2i3eclSpG85/ESBmA3/yaBGILedM21TzPNtPh267ELee5rAPlO4F7TeSZsmBJbc\nLWs9QpGNcCoy6VKc8l1rLB7YwiRkXlKgPF6OCfmuwdB6Vm1p/jD/qoyBLiWi44z6\nXWrNPL0Cn53H2BflSDzAd8fMY1ROIzHtVYybBi8yTCKT7XGja3hXGOhvF2ZuPZZU\na5cCynQAR7DpvrP8/YO5FONkoOlYWSUfO5VSGnMymKNPWM09oRcKh4eHn4Sq05gb\nVYcvv4XVAgMBAAECggEALC1VFmCXY7iS5hu+4ZOFgxUfsF4ndMwgIZXk9rWEspqc\nYFqbKmVaZuUuPiMTGtLaONuvUPhuXmR9gJn1DSNQFgIX20PffzcsIiRAne5pKtIK\niJXjSTHpTbkEESKPn5y7Z3eAELwLPZyejShOFnuJaAlyd2bWCXfhjgjw/EK3y+0r\nM3mKe3+gx9aHUVagkREAGrdqhujBQ0WuyDfUHYurAsk8Q1RROp6SxpuAx9XlDGqH\nD6xdSUZlgdV6o++uGD3RKsF4fjB/V6n+OKs17sdzQVFiq2KJybto3mse4/hLbt68\nNH6DdnDxYr+5z9ypCecT+EQOYpx1Y60J4wkfbeZyjQKBgQDldu1SA1FkMMGKxo4H\nSGozHgJZT3p6YQTQt4ZbXSg2863vC5Y2a3W87gz/akN95dqKNcbZp6B3LvexsibG\nl/jQe6OSwpEHd+OHZssTGlLCG5XiTkxQeo6gquvw2wVxze2maVRwQzxn6aRt2bQJ\nUVWN7lDgHysQAOJLXi+Z2UifOwKBgQDE2HunSh1hAKQBHxqyXQaAd8d6AL2qqf5H\nuMKOHRnNxR2JaJQ/EYQI5Ca9aQ5tq/Pq6IHgHzHhIlhhciT+E1PuOa36jXqJdRsz\n8IWn/mmXRAYBxGGRY2406t7GRojtK8/HPKeiCjo79yu1iUM2bVCrnVwaLPRStqqe\nGRH7RO4+LwKBgQCp+Vh+YdrOnpcfV0kp9+hDCT2wLoGJWYiZmvi5gN4jJop3Alw4\n340NcEDMikiIX9Vsf71WySbCYlY0mMTEYxp6RLu8IMgRgitWxzwyYFNhWdHDG0DI\ndKBmP3YaqgL0dBhQJsHXjtaWGqokfRkxtb/sLNZXzn61khIOxiv4iM2UtQKBgBea\nJWlvl4oz+3Yu9pKAWPE6a26TfCpka5rJ6noDvz5O7jW1lmDhhsVSJdr8J8C6p2p5\nKmlnFCH8bkBw4UKdqqibveKW6CRnKDXYFw6HkL2UaGv50gEOvP4XU1LOzkgxwp4P\nBcKGG2lpP5JqvOZfwRZyrcJttXXddSOzudY485/9AoGBAJeWsC4vvk9tMNvCEWeJ\niXXspTM3/4kvB9KZvhRH7SznBreYb9T8pj1TwXR6bbLc3Y9CEA0iWFd60tp4cl/m\nXFOxH5yR2CDQWm3b9ST3nZOl5MchpvBLuoWkDPuFC9VvYtjAU0CviYAf1MLq0KE8\nOc3RQZ09+53dJGoIsgkrzGDo\n-----END PRIVATE KEY-----\n",
+  "client_email": "coronahousingp@coronahousingprices.iam.gserviceaccount.com",
+  "client_id": "112880659358509643523",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/coronahousingp%40coronahousingprices.iam.gserviceaccount.com"
+}
